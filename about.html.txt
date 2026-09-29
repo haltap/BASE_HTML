@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My webSite(Abaout)</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="index.html">Go index</a></li>
+            </ul>
+        </nav>
+        <hr>
+        <h1 style="color:darkcyan">Welcome to My Website (Abaout)</h1>
+        <hr>
+    </header>
+    <main>
+        <p>This is simple paragraph.</p>
+    </main>
+    <footer>
+        <p>&copy; Misael Cruz</p>
+    </footer>
+</body>
+
+</html>
