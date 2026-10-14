@@ -1,1 +1,9 @@
-<p>calculadora works!</p>
+<h2>Calculadora</h2>
+
+<input type="number" [(ngModel)]="a" name="a" placeholder="Primer número">
+<span> + </span>
+<input type="number" [(ngModel)]="b" name="b" placeholder="Segundo número">
+
+<button (click)="sumar()">Sumar</button>
+
+<p>Resultado: {{ resultado() }}</p>
